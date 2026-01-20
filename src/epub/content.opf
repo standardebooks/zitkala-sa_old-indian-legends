@@ -43,7 +43,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/338</dc:source>
 		<dc:source>https://archive.org/details/oldindianlegend00zitkgoog</dc:source>
 		<meta property="se:is-a-collection">true</meta>
-		<meta property="se:word-count">18474</meta>
+		<meta property="se:word-count">18368</meta>
 		<meta property="se:reading-ease.flesch">84.17</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Old_Indian_Legends</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/zitkala-sa_old-indian-legends</meta>
