@@ -36,7 +36,7 @@
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
-		<dc:abstract>A collection of Dakota legends retold by Zitkála-Šá.</dc:abstract>
+		<meta property="schema:abstract">A collection of Dakota legends retold by Zitkála-Šá.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Old Indian Legends&lt;/i&gt; is a collection of Dakota legends, retold by the 19th and early 20th-century Dakota author &lt;a href="https://standardebooks.org/ebooks/zitkala-sa"&gt;Zitkála-Šá&lt;/a&gt;. The collection was compiled in 1901 when Zitkála-Šá returned to her birthplace in the Yankton reservation to take care of her mother, after she had spent several years in the assimilationist Indian residential school system, both as a student and as an educator. While taking care of her mother, she gathered traditional tales from Dakota storytellers which were retold in English for &lt;i&gt;Old Indian Legends&lt;/i&gt;. The stories revolve around various spirits and heroes from Dakota myth, especially Iktomi, a shapeshifting spider trickster.&lt;/p&gt;
 		</dc:description>
